@@ -1,8 +1,3 @@
-/*
- * Ejemplo sencillo sin mucha utilitadad
- * pero que demuestra el uso de un Singleton
- */
-
 package Singleton.EjemploComplementario;
 
 public class Character {

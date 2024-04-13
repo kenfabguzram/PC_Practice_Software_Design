@@ -1,10 +1,14 @@
+/*
+ * Ejemplo sencillo sin mucha utilitadad
+ * pero que demuestra el uso de un Singleton
+ */
 package Singleton.EjemploComplementario;
 
 import java.util.List;
 import java.util.ArrayList;
 
 public class CharacterManager {
-    
+
     private static CharacterManager instance;
     private List<Character> characters;
 
